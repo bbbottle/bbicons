@@ -1,6 +1,6 @@
 {
   "name": "@bbbottle/bbicons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/bbbottle/bbicons.git",
   "author": "bbbottle <z@zjh.im>",
@@ -12,8 +12,5 @@
     "build": "bbbundle",
     "dev": "bbbundle dev",
     "prepack": "bbbundle"
-  },
-  "devDependencies": {
-    "@bbbottle/bbbundle": "^0.0.2"
   }
 }
