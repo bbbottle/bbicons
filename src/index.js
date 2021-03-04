@@ -12,7 +12,13 @@ import GithubIcon from './icons/github.svg';
 import Unknown from './icons/unknown.svg';
 import YuQueIcon from './icons/yuque.svg';
 import MicroscopeSlide from './icons/microscope_slide .svg';
+import BoxIcon from './icons/box.svg';
+import HelpIcon from './icons/help.svg'
+import TextIcon from './icons/text.svg';
 
+export { BoxIcon }
+export { HelpIcon }
+export { TextIcon }
 export { AboutIcon }
 export { EditIcon }
 export { PostIcon }
