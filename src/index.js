@@ -15,7 +15,11 @@ import MicroscopeSlide from './icons/microscope_slide .svg';
 import BoxIcon from './icons/box.svg';
 import HelpIcon from './icons/help.svg'
 import TextIcon from './icons/text.svg';
+import FigmaIcon from './icons/figma.svg';
+import NpmIcon from './icons/npm.svg';
 
+export { NpmIcon }
+export { FigmaIcon }
 export { BoxIcon }
 export { HelpIcon }
 export { TextIcon }
