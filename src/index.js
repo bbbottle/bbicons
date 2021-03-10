@@ -17,7 +17,9 @@ import HelpIcon from './icons/help.svg'
 import TextIcon from './icons/text.svg';
 import FigmaIcon from './icons/figma.svg';
 import NpmIcon from './icons/npm.svg';
+import InvalidIcon from './icons/invalid.svg';
 
+export { InvalidIcon }
 export { NpmIcon }
 export { FigmaIcon }
 export { BoxIcon }
